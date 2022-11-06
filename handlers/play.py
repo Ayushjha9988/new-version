@@ -206,11 +206,11 @@ async def play(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📨 Support", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton("📨 Channel", url=f"https://t.me/{CHANNEL_UPDATES}")
+                    InlineKeyboardButton(" ❰ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 ❱ ", url=f"https://t.me/{SUPPORT_GROUP}"),
+                    InlineKeyboardButton(" ❰ 𝙐𝙥𝙙𝙖𝙩𝙚𝙨 ❱ ", url=f"https://t.me/{CHANNEL_UPDATES}")
                 ],
                 [
-                   InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play")
+                   InlineKeyboardButton(" 🔐 𝗖𝗹𝗼𝘀𝗲 ", callback_data="close_play")
                 ],
             ]
         ),
@@ -232,11 +232,11 @@ async def play(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📨 Support", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton("📨 Channel ", url=f"https://t.me/{CHANNEL_UPDATES}")
+                    InlineKeyboardButton(" ❰ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 ❱ ", url=f"https://t.me/{SUPPORT_GROUP}"),
+                    InlineKeyboardButton(" ❰ 𝙐𝙥𝙙𝙖𝙩𝙚𝙨 ❱ ", url=f"https://t.me/{CHANNEL_UPDATES}")
                 ],
                 [
-                    InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play")
+                    InlineKeyboardButton(" 🔐 𝗖𝗹𝗼𝘀𝗲 ", callback_data="close_play")
                 ],
             ]
         ),
