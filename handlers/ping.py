@@ -49,26 +49,26 @@ async def help(client: Client, message: Message):
     start = datetime.now()
     end = datetime.now()
     resp = (end - start).microseconds / 1000
-    await message.reply_sticker("CAACAgUAAx0CZp7eIAACYn9jQ4fSHUbGxAMFJz_-kaRcOuoRWAACDgcAAruXGFbarx8_grqJYh4E")
+    await message.reply_sticker("CAACAgUAAxkBAAILx2NntoLIEI1EkUjRidSvRiiVk-JlAAJ_BgACGHNAV0RLWPOsXuu5KwQ")
     jay = await message.reply_photo(
         photo=f"{PING_IMG}",
         caption=" Pinging...⚡ ",
     )
     await jay.edit_text(
-        f"""<b> pong ping ! ⚡</b>\n  🏓 `{resp} ms`\n\n<b><u>{BOT_NAME} system stats:</u></b>\n\n✨ Uptime : {bot_uptime}\n🔮 Cpu : {cpu}%\n💫 Disk : {disk}%\n❤️ Ram : {mem}\n\n||ᴍᴀᴅᴇ 🖤 ʙʏ [ᴇxᴘᴏʀᴛ ɢᴀʙʙᴀʀ🥀](https://t.me/export_gabbar)||""",
+        f"""<b> pong ping ! ⚡</b>\n  🏓 `{resp} ms`\n\n<b><u>{BOT_NAME} system stats:</u></b>\n\n✨ Uptime : {bot_uptime}\n🔮 Cpu : {cpu}%\n💫 Disk : {disk}%\n❤️ Ram : {mem}\n\n||ᴍᴀᴅᴇ ʙʏ ❤️ and [Sangram🥀](https://t.me/OpSangram)||""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "📨 Support ", url=f"https://t.me/{SUPPORT_GROUP}"
+                        " ❰ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 ❱ ", url=f"https://t.me/{SUPPORT_GROUP}"
                     ),
                     InlineKeyboardButton(
-                        "📨 Channel ", url=f"https://t.me/{CHANNEL_UPDATES}"
+                        " ❰ 𝙐𝙥𝙙𝙖𝙩𝙚𝙨 ❱ ", url=f"https://t.me/{CHANNEL_UPDATES}"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "💡Git repo ", url="https://te.legra.ph/file/db7c6b18567b5e81165ad.mp4"
+                        " 😵‍💫 𝗦𝗼𝘂𝗿𝗰𝗲 😵‍💫 ", url="https://t.me/WelcomeToSupportGroup"
                     )
                 ]
             ]
