@@ -107,5 +107,5 @@
    ─「 ᴄʀᴇᴅɪᴛs 」─ 
  </h3> 
 
- - <b>[ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/MrProgrammer72)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/WCFteam/Smart-Music) </b> 
+ - <b>[ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/OpSangram)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/WCFteam/Smart-Music) </b> 
 ━━━━━━━━━━━━━━━━━━━━
