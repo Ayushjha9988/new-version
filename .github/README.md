@@ -1,12 +1,12 @@
 
  <h2 align="center">   
-    ──「 𝗚𝗝𝟱𝟭𝟲 𝗩𝗰 𝗣𝗹𝗮𝘆𝗲𝗿 」──  
+    ──「 Queen Music 」──  
    </h2>  
  <p align="center">   
-<img src="https://te.legra.ph/file/1ef8c37b037bcb687e2c3.jpg">   
+<img src="https://telegra.ph/file/8674ac973f3cf97290c90.jpg">   
  </p> ━━━━━━━━━━━━━━━━━━━━ 
  <p align="center"> 
- <a href="https://github.com/MrProgrammer72/GJ516VCBOT/stargazers"><img src="https://img.shields.io/github/stars/MrProgrammer72/GJ516VCBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/MrProgrammer72/GJ516VCBOT/network/members"> <img src="https://img.shields.io/github/forks/MrProgrammer72/GJ516VCBOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
+ <a href="https://github.com/WCFteam/Smart-Music/stargazers"><img src="https://img.shields.io/github/stars/WCFteam/Smart-Music?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/WCFteam/Smart-Music/network/members"> <img src="https://img.shields.io/github/forks/WCFteam/Smart-Music?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
  <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a> 
  </p> 
  ━━━━━━━━━━━━━━━━━━━━
@@ -59,13 +59,13 @@
 
  ## ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🚀 
 
- <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MrProgrammer72/GJ516VCBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-orange?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p> 
+ <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/WCFteam/Smart-Music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-orange?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p> 
 
  The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable). 
 
  ## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ 
 
- <p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/MrProgrammer72/GJ516VCBOT"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p> 
+ <p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/WCFteam/Smart-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p> 
 
  The second easiest way to host this bot, Deploy on Okteto Cloud 
  ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
@@ -76,7 +76,7 @@
  Curl -sL https://deb.nodesource.com/setup_16.x | bash - 
  sudo apt-get install -y nodejs 
  npm i -g npm 
- git clone https://github.com/MrProgrammer72/GJ516VCBOT # Clone your repo. 
+ git clone https://github.com/WCFteam/Smart-Music # Clone your repo. 
  cd GJ516VCBOT
  pip3 install -U -r requirements.txt 
  cp example.env .env #Use vim to edit ENVs 
@@ -97,15 +97,15 @@
  </h3> 
 
   <p align="center"> 
- <a href="https://t.me/GJ516_DISCUSS_GROUP"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+ <a href="https://t.me/WorldChattingFriendsWCF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> 
  </p> 
  <p align="center"> 
- <a href="https://telegram.me/myworldGJ516"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+ <a href="https://telegram.me/WCFnetwork"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
  </p> 
 ━━━━━━━━━━━━━━━━━━━━
     <h3 align="center"> 
    ─「 ᴄʀᴇᴅɪᴛs 」─ 
  </h3> 
 
- - <b>[ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/MrProgrammer72)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/MrProgrammer72/GJ516VCBOT) </b> 
+ - <b>[ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/MrProgrammer72)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/WCFteam/Smart-Music) </b> 
 ━━━━━━━━━━━━━━━━━━━━
